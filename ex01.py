@@ -1,3 +1,5 @@
-nome = str(input("Informe o seu nome"))#criando variável nome e atribuindo a ela o valor informado pelo usuario
+"""Crie um programa para imprimir na tela a mensagem ola mundo"""
 
-print("muito prazer em te conhecer {}" .format(nome)) #imprimindo na tela o valor concatenado com a mensagem 
+"""Para esse programa será utilizado o função print que imprime na tela """
+
+print("Ola Mundo")
